@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "linerstream": "^0.1.4",
-    "phantomjs-prebuilt": "^2.1.4",
+    "phantomjs-prebuilt": "^2.1.10",
     "winston": "^2.2.0"
   },
   "devDependencies": {
